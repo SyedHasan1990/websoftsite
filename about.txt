@@ -1,0 +1,113 @@
+ <!-- About -->
+    <!--<div id="about" class="basic-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2 style="color:#528162">Our Specialised Team</h2>
+                    <p class="p-heading p-large">Meat our team of specialized marketers and business developers which will help you research new products and launch them in new emerging markets</p>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+                    
+                    <!-- Team Member -->
+                    <div class="team-member">
+                        <div class="image-wrapper">
+                            <img class="img-fluid" src="images/zubaida.jpg" alt="alternative">
+                        </div> <!-- end of image-wrapper -->
+                        <p class="p-large"><strong>Zubaida Nila</strong></p>
+                        <p class="job-title">Designer</p>
+                        <span class="social-icons">
+                            <span class="fa-stack">
+                                <a href="https://www.linkedin.com/in/zubaidanila/">
+                                   <i class="fas fa-circle fa-stack-2x linkedin"></i>
+                        <i class="fab fa-linkedin fa-stack-1x"></i>
+                                </a>
+                            </span>
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <i class="fas fa-circle fa-stack-2x twitter"></i>
+                                    <i class="fab fa-twitter fa-stack-1x"></i>
+                                </a>
+                            </span>
+                        </span> <!-- end of social-icons -->
+                    </div> <!-- end of team-member -->
+                    <!-- end of team member -->
+
+                    <!-- Team Member -->
+                    <div class="team-member">
+                        <div class="image-wrapper">
+                            <img class="img-fluid" src="images/index.png" alt="alternative">
+                        </div> <!-- end of image wrapper -->
+                        <p class="p-large"><strong>Syed Hasan</strong></p>
+                        <p class="job-title">Software Engineer</p>
+                        <span class="social-icons">
+                            <span class="fa-stack">
+                                <a href="">
+                                  <i class="fas fa-circle fa-stack-2x linkedin"></i>
+                        <i class="fab fa-linkedin fa-stack-1x"></i>
+                                </a>
+                            </span>
+                            <span class="fa-stack">
+                                <a href="https://www.facebook.com/syed.maruf.hasan90">
+                                    <i class="fas fa-circle fa-stack-2x facebook"></i>
+                                    <i class="fab fa-facebook fa-stack-1x"></i>
+                                </a>
+                            </span>
+                        </span> <!-- end of social-icons -->
+                    </div> <!-- end of team-member -->
+                    <!-- end of team member -->
+
+                    <!-- Team Member -->
+                    <div class="team-member">
+                        <div class="image-wrapper">
+                            <img class="img-fluid" src="images/imtiaz.jpg" alt="alternative">
+                        </div> <!-- end of image wrapper -->
+                        <p class="p-large"><strong>Mohammed Imtiaz</strong></p>
+                        <p class="job-title">Business Consultant</p>
+                        <span class="social-icons">
+                            <span class="fa-stack">
+                                <a href="https://www.linkedin.com/in/capt-mohammed-imtiaz-b90a6a41/">
+                                 <i class="fas fa-circle fa-stack-2x linkedin"></i>
+                        <i class="fab fa-linkedin fa-stack-1x"></i>
+                                </a>
+                            </span>
+                           <!--  <span class="fa-stack">
+                                <a href="#your-link">
+                                    <i class="fas fa-circle fa-stack-2x twitter"></i>
+                                    <i class="fab fa-twitter fa-stack-1x"></i>
+                                </a>
+                            </span> -->
+                        <!-- </span> --> <!-- end of social-icons -->
+                    </div> <!-- end of team-member -->
+                    <!-- end of team member -->
+
+                    <!-- Team Member -->
+                   <!--  <div class="team-member">
+                        <div class="image-wrapper">
+                            <img class="img-fluid" src="images/team-member-4.svg" alt="alternative">
+                        </div> <!-- end of image wrapper -->
+                       <!--  <p class="p-large"><strong>Mary Villalonga</strong></p>
+                        <p class="job-title">Product Manager</p>
+                        <span class="social-icons">
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <i class="fas fa-circle fa-stack-2x facebook"></i>
+                                    <i class="fab fa-facebook-f fa-stack-1x"></i>
+                                </a>
+                            </span>
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <i class="fas fa-circle fa-stack-2x twitter"></i>
+                                    <i class="fab fa-twitter fa-stack-1x"></i>
+                                </a>
+                            </span> -->
+                        <!-- </span> --><!-- end of social-icons -->
+                   <!--  </div>  --><!-- end of team-member -->
+                    <!-- end of team member -->
+
+                </div> 
+            </div>
+        </div> 
+    </div>-->
+    <!-- end of about -->
